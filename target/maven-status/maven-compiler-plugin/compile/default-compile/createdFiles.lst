@@ -3,6 +3,7 @@ com\malkris\service\ContactService.class
 com\malkris\controller\ContactController.class
 com\malkris\config\CorsConfig$1.class
 com\malkris\dto\ApiResponse$ApiResponseBuilder.class
+com\malkris\service\EmailService.class
 com\malkris\exception\GlobalExceptionHandler.class
 com\malkris\config\SecurityConfig.class
 com\malkris\dto\ApiResponse.class
