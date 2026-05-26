@@ -1,0 +1,3 @@
+com\malkris\config\SecurityConfig.class
+com\malkris\config\CorsConfig.class
+com\malkris\MalkrisApplication.class

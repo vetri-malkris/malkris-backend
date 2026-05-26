@@ -1,0 +1,12 @@
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\config\CorsConfig.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\config\SecurityConfig.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\controller\ContactController.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\dto\ApiResponse.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\dto\ContactRequest.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\entity\ContactMessage.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\exception\GlobalExceptionHandler.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\MalkrisApplication.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\repository\ContactRepository.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\service\ContactService.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\service\ContactServiceImpl.java
+V:\donttouch\Malkris\malkris-site\malkris-enterprise-full\src\main\java\com\malkris\util\AppConstants.java
